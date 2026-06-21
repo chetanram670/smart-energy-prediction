@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+*.so
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large / intermediate data artifacts (raw dataset is fetched via setup
+# instructions in README rather than committed, to keep the repo light)
+data/energy_cleaned.csv
+data/energy_featured.csv
+
+# Large model bundle used only for local evaluation, not needed to run the app
+models/all_pipelines.pkl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log

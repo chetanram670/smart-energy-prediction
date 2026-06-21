@@ -1,0 +1,13 @@
+{
+  "n_rows": 19735,
+  "n_columns": 29,
+  "date_range": [
+    "2016-01-11 17:00:00",
+    "2016-05-27 18:00:00"
+  ],
+  "duration_days": 137,
+  "target_mean_Wh": 97.69,
+  "target_median_Wh": 60.0,
+  "target_std_Wh": 102.52,
+  "target_max_Wh": 1080.0
+}

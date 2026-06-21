@@ -1,0 +1,5 @@
+,Rank,MAE,MSE,RMSE,R2,train_time_sec
+Random Forest,1,30.578,3922.635,62.631,0.578,62.44
+XGBoost,2,33.655,4288.249,65.485,0.539,1.66
+Gradient Boosting,3,41.177,5703.1,75.519,0.387,26.14
+Linear Regression,4,50.295,7232.213,85.042,0.223,0.05
